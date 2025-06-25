@@ -13,4 +13,5 @@ Possible improvements:
 - Restart button
 - Scoring system
 - Timer
+
 This project is open source and available under MIT License.
