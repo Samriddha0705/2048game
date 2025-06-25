@@ -5,9 +5,6 @@ Tech Stack:
 - JavaScript
 
 git clone https://github.com/Samriddha0705/2048game.git
-cd 2048game
-start index.html
-
 
 Possible improvements:
 - Restart button
